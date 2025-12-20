@@ -71,8 +71,7 @@ I focus on **clear communication**, realistic timelines, and long-term maintaina
 
 ## 📫 Let’s Connect
 
-- 📧 **Email:** zohaibcodes48@gmail.com  
-- 💼 **Upwork:** _(add your Upwork profile link here)_  
+- 📧 **Email:** zohaibcodes48@gmail.com
 - 🧑‍💻 **GitHub:** https://github.com/zohaib-codes48  
 
 ---
