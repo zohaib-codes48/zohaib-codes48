@@ -65,6 +65,7 @@ I focus on **clear communication**, realistic timelines, and long-term maintaina
 
 - 📧 **Email:** zohaibcodes48@gmail.com
 - 🧑‍💻 **GitHub:** https://github.com/zohaib-codes48  
+- 🧑‍💻 **LinkedIn:** https://www.linkedin.com/in/zohaib-waris-63154b247/
 
 ---
 
