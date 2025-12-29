@@ -67,9 +67,10 @@ I focus on **clear communication**, realistic timelines, and long-term maintaina
 
 ## 📫 Let’s Connect
 
-[![Email](https://img.shields.io/badge/Email-zohaibcodes48%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zohaibcodes48@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-zohaib--codes48-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zohaib-codes48)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zohaib%20Waris-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohaib-waris-63154b247/)
+- 📧 **Email:** zohaibcodes48@gmail.com  
+- 💻 **GitHub:** https://github.com/zohaib-codes48  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/zohaib-waris-63154b247/
+
 
 ---
 
