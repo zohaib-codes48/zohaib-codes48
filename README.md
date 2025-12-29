@@ -61,14 +61,6 @@ I focus on **clear communication**, realistic timelines, and long-term maintaina
 
 ---
 
-## 📊 GitHub Overview
-
-![Zohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zohaib-codes48&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib-codes48&layout=compact&theme=dark)
-
----
-
 ## 📫 Let’s Connect
 
 - 📧 **Email:** zohaibcodes48@gmail.com
