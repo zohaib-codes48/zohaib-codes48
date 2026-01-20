@@ -75,3 +75,9 @@ I focus on **clear communication**, realistic timelines, and long-term maintaina
 ---
 
 ### ⭐ If you’re looking for a dependable mobile developer who values code quality and product success, let’s work together.
+
+### 🔒 Project Portfolio Note
+
+Due to confidentiality and client privacy agreements, my completed projects are not publicly available. However, I’m happy to share relevant work samples, demos, or case studies privately.
+
+### 📩 If you’d like to review my projects, please reach out via email, and I’ll be glad to discuss and share details accordingly.
