@@ -31,7 +31,6 @@ I build **reliable, scalable, and user-focused mobile applications** for startup
 ### 📱 Mobile Development
 - Flutter  
 - React Native  
-- Android (Kotlin)  
 - iOS (Swift)
 
 ---
@@ -40,7 +39,6 @@ I build **reliable, scalable, and user-focused mobile applications** for startup
 - Dart  
 - JavaScript  
 - TypeScript  
-- Kotlin  
 - Swift  
 
 ---
