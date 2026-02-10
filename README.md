@@ -7,7 +7,7 @@ I build **reliable, scalable, and user-focused mobile applications** for startup
 
 ## 💼 Professional Snapshot
 
-- 💰 **Hourly Rate:** $50/hr  
+- 💰 **Hourly Rate:** $35/hr  
 - 🧠 **Experience:** 4+ Years  
 - 📱 **Specialization:** Cross-platform & Native Mobile Apps  
 - 🌍 **Location:** Lahore, Pakistan  
