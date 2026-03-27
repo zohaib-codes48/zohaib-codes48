@@ -89,18 +89,14 @@
 <div align="center">
 
 <a href="https://github.com/zohaib-codes48">
-  <img src="https://streak-stats.demolab.com?user=zohaib-codes48&theme=radical&hide_border=true&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&sideLabels=FFA657&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&background=0D1117" width="600" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=zohaib-codes48&theme=github-dark-blue&hide_border=true" width="600" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/zohaib-codes48">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zohaib-codes48&bg_color=0D1117&color=FF6B9D&line=FFA657&point=FFFFFF&area_color=FF6B9D&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" width="600" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zohaib-codes48&theme=github-compact&hide_border=true&area=true" width="600" alt="Activity Graph"/>
 </a>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=zohaib-codes48&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="600" alt="GitHub Trophies"/>
 
 </div>
 
