@@ -63,7 +63,6 @@
 
 ## 🚀 Featured Projects
 
-> *(Replace these with your real apps — this section is VERY important for clients)*
 
 ### 📱 On-Demand Service App
 
