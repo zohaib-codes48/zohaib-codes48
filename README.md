@@ -1,87 +1,50 @@
 <div align="center">
 
-# Hey, I'm Zohaib Waris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Auto Git <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
 
-### Mobile App Developer | Flutter & React Native Specialist
+### Automated GitHub Contribution Graph Generator
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohaib-waris-63154b247/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unityzohaib@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zohaib-codes48)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br/>
 
-I build **reliable, scalable, and user-focused mobile applications** for startups and growing businesses.<br/>
-**4+ years** of turning ideas into polished apps that perform well in production.
+Automatically generates **realistic, human-like** GitHub contributions that simulate real coding activity.<br/>
+Keep your contribution graph green — on autopilot.
 
 </div>
 
 ---
 
-## :zap: About Me
-
-- :iphone: Specializing in **cross-platform & native mobile development**
-- :earth_africa: Based in **Lahore, Pakistan**
-- :handshake: Available for **Freelance / Contract / Long-term** roles
-- :moneybag: Hourly Rate: **$35/hr**
-- :mailbox: Reach me at **unityzohaib@gmail.com**
-
----
-
-## :hammer_and_wrench: Tech Stack
-
-<div align="center">
-
-#### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-#### Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-#### Backend & Tools
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## :rocket: What I Deliver
+## :sparkles: Features
 
 <table>
 <tr>
 <td width="50%">
 
-**:iphone: End-to-End App Development**<br/>
-From idea to App Store & Play Store release
+**:brain: Human-Like Patterns**<br/>
+Variable commit frequency with realistic daily, weekly, and seasonal patterns
 
-**:art: Clean UI & Architecture**<br/>
-Scalable, maintainable code with pixel-perfect interfaces
+**:calendar: Smart Scheduling**<br/>
+Weekday-heavy activity with reduced weekends — just like a real developer
 
-**:fire: Firebase Integration**<br/>
-Auth, Firestore, FCM, Analytics, Crashlytics
+**:sleeping: Natural Off Days**<br/>
+85% Sunday skip rate, 60% Saturday skip rate, 10% random weekday skips
 
 </td>
 <td width="50%">
 
-**:gear: Performance Optimization**<br/>
-Smooth 60fps, minimal load times, optimized builds
+**:bar_chart: Variable Intensity**<br/>
+1-30 commits/day creating light-to-dark green contribution squares
 
-**:test_tube: Thorough Testing**<br/>
-Cross-device testing and quality assurance
+**:label: Conventional Commits**<br/>
+Realistic messages: `refactor:`, `fix:`, `docs:`, `perf:`, `test:`, etc.
 
-**:rocket: Deployment & Beyond**<br/>
-Store submission, compliance, and post-launch support
+**:repeat: Fully Automated**<br/>
+Set it once — GitHub Actions handles everything
 
 </td>
 </tr>
@@ -89,26 +52,159 @@ Store submission, compliance, and post-launch support
 
 ---
 
-## :bar_chart: GitHub Stats
+## :rocket: Quick Setup
 
-<div align="center">
+### 1. Push to GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=zohaib-codes48&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="170"/>
+```bash
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git branch -M main
+git push -u origin main
+```
 
-&nbsp;&nbsp;
+### 2. Enable GitHub Actions
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib-codes48&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="170"/>
+1. Go to **Settings** > **Actions** > **General**
+2. Select **Read and write permissions**
+3. Check **Allow GitHub Actions to create and approve pull requests**
+4. Click **Save**
 
-<br/><br/>
+### 3. (Optional) Configure Git Identity
 
-<img src="https://streak-stats.demolab.com?user=zohaib-codes48&theme=tokyonight&hide_border=true&cache_seconds=86400" width="600"/>
+Add these as **repository variables** in **Settings** > **Secrets and variables** > **Actions** > **Variables**:
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zohaib-codes48&theme=tokyo-night&hide_border=true&area=true" width="600"/>
-
-</div>
+| Variable | Description |
+|----------|-------------|
+| `GIT_USER_NAME` | Your preferred display name |
+| `GIT_USER_EMAIL` | Your GitHub-verified email |
 
 ---
 
-## :briefcase: How I Work
+## :gear: How It Works
+
+### Schedule (UTC)
+
+| Day | Times (UTC) | Behavior |
+|-----|-------------|----------|
+| Mon - Fri | `04:30`, `09:00`, `13:00` | Regular commits (90% chance) |
+| Saturday | `05:00` | Occasional commits (40% chance) |
+| Sunday | — | Usually skipped (15% chance) |
+
+### Commit Intensity Per Day
+
+| Day Type | Commits | Trigger |
+|----------|---------|---------|
+| :fire: High Activity | 20-30 | 1 day per week (rotates weekly) |
+| :thumbsup: Normal | 1-10 | Most weekdays |
+| :zzz: Low Activity | 9-20 | 1 day per week (different from high) |
+
+### Contribution Graph Colors
+
+| Color | Commits |
+|-------|---------|
+| :white_large_square: None | 0 |
+| :green_square: Light green | 1 |
+| :green_square: Medium green | 2-3 |
+| :green_square: Dark green | 4+ |
+
+---
+
+## :open_file_folder: Project Structure
+
+```
+auto_git/
+├── .github/
+│   └── workflows/
+│       └── daily.yml           # GitHub Actions workflow (cron-based)
+├── app/                        # Expo React Native app
+│   ├── (tabs)/
+│   │   ├── _layout.tsx         # Tab navigator
+│   │   ├── index.tsx           # Home screen
+│   │   └── explore.tsx         # Explore screen
+│   ├── _layout.tsx             # Root layout
+│   └── modal.tsx               # Modal screen
+├── components/                 # Reusable UI components
+├── constants/                  # Theme & color definitions
+├── hooks/                      # Custom React hooks
+├── logs/
+│   ├── activity.log            # Human-readable activity log
+│   └── metrics.jsonl           # JSON metrics per session
+├── scripts/
+│   ├── redo-2025.sh            # Backfill script (human-like patterns)
+│   └── reset-project.js        # Expo project reset utility
+└── package.json
+```
+
+---
+
+## :wrench: Customization
+
+### Change Commit Frequency
+
+Edit the cron schedules in `.github/workflows/daily.yml`:
+
+```yaml
+schedule:
+  - cron: '0 9 * * 1-5'   # Once daily at 9:00 UTC on weekdays
+```
+
+### Change Skip Probability
+
+Modify the percentage thresholds in the workflow:
+
+```bash
+# Sunday - change 85 to your preferred skip %
+if [ $RANDOM_NUM -lt 85 ]; then
+```
+
+### Add Custom Commit Messages
+
+Extend the `MESSAGES` array in the workflow:
+
+```bash
+MESSAGES=("your: custom message" ...)
+```
+
+---
+
+## :test_tube: Manual Trigger
+
+1. Go to **Actions** tab in your repository
+2. Click **Daily Auto Commit**
+3. Click **Run workflow** > Select branch > **Run workflow**
+
+---
+
+## :warning: Troubleshooting
+
+| Problem | Solution |
+|---------|----------|
+| No green dots | Verify commit email matches your GitHub account |
+| Workflow not running | Check Actions tab for errors; ensure YAML is valid |
+| Commits not on profile | Must be on default branch (`main`) |
+| Fork not counting | Use your own repo, not a fork |
+| Private repo hidden | Enable "Private contributions" in profile settings |
+| Workflow disabled | GitHub disables after 60 days inactivity — re-trigger manually |
+
+---
+
+## :clock1: Time Zone Reference
+
+| Timezone | UTC Offset | `04:30 UTC` becomes |
+|----------|------------|---------------------|
+| IST (India) | +5:30 | 10:00 AM |
+| EST (US East) | -5:00 | 11:30 PM (prev day) |
+| PST (US West) | -8:00 | 8:30 PM (prev day) |
+| GMT (UK) | +0:00 | 4:30 AM |
+| CET (Europe) | +1:00 | 5:30 AM |
+
+---
+
+<div align="center">
+
+### Built with :heart: using GitHub Actions
+
+![GitHub Stars](https://img.shields.io/github/stars/zohaib-codes48/auto_git?style=for-the-badge&color=yellow)
+![GitHub Forks](https://img.shields.io/github/forks/zohaib-codes48/auto_git?style=for-the-badge&color=blue)
+
+</div>
