@@ -5,7 +5,7 @@
 ### Mobile App Developer | Flutter & React Native Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohaib-waris-63154b247/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zohaibcodes48@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unityzohaib@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zohaib-codes48)
 
 <br/>
@@ -23,7 +23,7 @@ I build **reliable, scalable, and user-focused mobile applications** for startup
 - :earth_africa: Based in **Lahore, Pakistan**
 - :handshake: Available for **Freelance / Contract / Long-term** roles
 - :moneybag: Hourly Rate: **$35/hr**
-- :mailbox: Reach me at **zohaibcodes48@gmail.com**
+- :mailbox: Reach me at **unityzohaib@gmail.com**
 
 ---
 
@@ -135,7 +135,7 @@ Due to client confidentiality agreements, my completed projects are not publicly
 
 ### :star2: Looking for a dependable mobile developer who values code quality and product success?
 
-### [Let's Work Together](mailto:zohaibcodes48@gmail.com)
+### [Let's Work Together](mailto:unityzohaib@gmail.com)
 
 <br/>
 
