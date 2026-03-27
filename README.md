@@ -93,13 +93,15 @@ Store submission, compliance, and post-launch support
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zohaib-codes48&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zohaib-codes48&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="170"/>
+
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib-codes48&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib-codes48&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zohaib-codes48&theme=tokyonight&hide_border=true" width="600"/>
+<img src="https://streak-stats.demolab.com?user=zohaib-codes48&theme=tokyonight&hide_border=true&cache_seconds=86400" width="600"/>
 
 <br/><br/>
 
@@ -110,35 +112,3 @@ Store submission, compliance, and post-launch support
 ---
 
 ## :briefcase: How I Work
-
-```
-1. Understand  -->  Deep dive into requirements & goals
-2. Design      -->  Clean UI wireframes & scalable architecture
-3. Develop     -->  Performance-first, maintainable code
-4. Test        -->  Cross-device & cross-platform QA
-5. Deploy      -->  Store submission + post-launch support
-```
-
-> I focus on **clear communication**, realistic timelines, and long-term maintainability.
-
----
-
-## :lock: Project Portfolio
-
-Due to client confidentiality agreements, my completed projects are not publicly listed. However, I'm happy to share **relevant work samples, demos, or case studies privately**.
-
-:email: **Interested in my work?** [Send me an email](mailto:zohaibcodes48@gmail.com) and I'll share details that match your requirements.
-
----
-
-<div align="center">
-
-### :star2: Looking for a dependable mobile developer who values code quality and product success?
-
-### [Let's Work Together](mailto:unityzohaib@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=zohaib-codes48&style=for-the-badge&color=blue)
-
-</div>
