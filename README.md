@@ -89,17 +89,25 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zohaib-codes48&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<a href="https://github.com/zohaib-codes48">
+  <img src="https://github-readme-stats-zohaib-codes48.vercel.app/api?username=zohaib-codes48&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+</a>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib-codes48&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<a href="https://github.com/zohaib-codes48">
+  <img src="https://github-readme-stats-zohaib-codes48.vercel.app/api/top-langs/?username=zohaib-codes48&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=zohaib-codes48&theme=tokyonight&hide_border=true" width="600"/>
+<a href="https://github.com/zohaib-codes48">
+  <img src="https://streak-stats.demolab.com?user=zohaib-codes48&theme=tokyonight&hide_border=true" width="600" alt="GitHub Streak"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zohaib-codes48&theme=tokyo-night&hide_border=true&area=true" width="600"/>
+<a href="https://github.com/zohaib-codes48">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zohaib-codes48&theme=tokyo-night&hide_border=true&area=true" width="600" alt="Activity Graph"/>
+</a>
 
 </div>
 
