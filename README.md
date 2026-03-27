@@ -102,43 +102,50 @@
 
 ---
 
-## 💼 How I Work
+## 💼 My Development Process
 
 ```
-1. Understand  → Deep dive into requirements
-2. Design      → Clean UI & scalable architecture
-3. Develop     → Performance-first code
-4. Test        → Cross-device QA
-5. Deploy      → Store release + support
+📋 Discovery       → Requirements analysis, user stories, technical feasibility
+🎨 Architecture    → System design, tech stack selection, scalable patterns
+⚡ Development     → Clean code, CI/CD pipelines, iterative sprints
+🧪 Quality         → Unit tests, integration tests, cross-device QA
+🚀 Delivery        → Store deployment, monitoring, performance profiling
+🔄 Iteration       → Analytics-driven improvements, feature scaling, maintenance
 ```
 
-✔ Clear communication
-✔ Realistic timelines
-✔ Long-term maintainability
+<div align="center">
 
----
+| Principle | What It Means |
+|-----------|--------------|
+| 🏗️ **Architecture First** | Scalable foundations before feature rush |
+| 📐 **Clean Code** | SOLID principles, design patterns, zero tech debt |
+| ⚡ **Performance Obsessed** | 60fps, sub-second loads, optimized bundles |
+| 🤝 **Transparent Communication** | Daily updates, realistic estimates, no surprises |
 
-## 🔒 Portfolio
-
-Due to NDA restrictions, projects are private.
-But I can share:
-
-✅ Live apps
-✅ Case studies
-✅ Code samples
-
-📩 Email me: **[unityzohaib@gmail.com](mailto:unityzohaib@gmail.com)**
+</div>
 
 ---
 
 <div align="center">
 
-## ⭐ Let's Build Something Great Together
-
-[![Contact Me](https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge)](mailto:unityzohaib@gmail.com)
+## 🚀 Let's Build Something Great Together
 
 <br/>
 
+**Have a project idea? Need a reliable mobile developer?**<br/>
+I'm always open to discussing new opportunities and challenging projects.
+
+<br/>
+
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-unityzohaib@gmail.com-EA4335?style=for-the-badge&logoColor=white)](mailto:unityzohaib@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on-LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/zohaib-waris-63154b247/)
+
+<br/><br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=zohaib-codes48&style=for-the-badge&color=blue)
+
+<br/>
+
+⭐ **If you find my work interesting, consider giving a star to my repos!** ⭐
 
 </div>
