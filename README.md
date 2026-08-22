@@ -25,7 +25,7 @@
 * 📱 Specializing in **Flutter & React Native (Cross + Native)**
 * 🌍 Based in **Lahore, Pakistan**
 * 🤝 Open for **Freelance / Contract / Long-term roles**
-* 📩 Email: **[unityzohaib@gmail.com](mailto:unityzohaib@gmail.com)**
+* 📩 Email: **[zohaibcodes48@gmail.com](mailto:unityzohaib@gmail.com)**
 
 ---
 
